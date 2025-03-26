@@ -1,0 +1,1429 @@
+{
+	"Adventure": {
+		"Haven & Hearth": {
+			"items": [
+				"Claim Land",
+				"Fealty Stone",
+				"Form Village",
+				"Found Realm",
+				"Light Hearth Fire",
+				"Travel to your Hearth Fire",
+				"Wilderness Beacon"
+			]
+		},
+		"Landscaping": {
+			"items": [
+				"Embankment Scaffold",
+				"Hand Plow",
+				"Lay Brick",
+				"Lay Brick Paving",
+				"Lay Metal",
+				"Lay Metal Paving",
+				"Lay Stone",
+				"Lay Stone Paving",
+				"Lay Woodchips",
+				"Plant Grass",
+				"Stomp to Dirt",
+				"Survey Land"
+			]
+		},
+		"Smoke & Fire": {
+			"items": [
+				"Bough Pyre",
+				"Build Fire",
+				"Light Fire",
+				"Pyrite Spark"
+			]
+		},
+		"Toggles": {
+			"items": [
+				"Display Mine Support Radius",
+				"Toggle Criminal Acts",
+				"Toggle Party Permissions",
+				"Toggle Swimming"
+			]
+		},
+		"items": [
+			"Destroy",
+			"Dig",
+			"Fish",
+			"Inspect",
+			"Lift",
+			"Mine",
+			"dig"
+		]
+	},
+	"Build": {
+		"Buildings & Construction": {
+			"Economy & Extensions": {
+				"items": [
+					"Barter Pole",
+					"Barter Stand",
+					"Cistern",
+					"Construct Cellar",
+					"Garden Shed",
+					"Granary",
+					"Leanto",
+					"Milling Machine",
+					"Sawmill",
+					"Well"
+				]
+			},
+			"Furnaces & Fireplaces": {
+				"items": [
+					"Bonfire",
+					"Crucible",
+					"Finery Forge",
+					"Fireplace",
+					"Kiln",
+					"Oven",
+					"Smelter",
+					"Smoke Shed",
+					"Stack Furnace",
+					"Steel Crucible",
+					"Tar Kiln"
+				]
+			},
+			"Houses & Buildings": {
+				"items": [
+					"Birdhouse",
+					"Chicken Coop",
+					"Dovecote",
+					"Great Hall",
+					"Greenhouse",
+					"Igloo",
+					"Log Cabin",
+					"Primitive Tent",
+					"Rabbit Hutch",
+					"Stone Mansion",
+					"Stone Tower",
+					"Stonehut",
+					"Stonestead",
+					"Timber House",
+					"Watermill",
+					"Windmill"
+				]
+			},
+			"Mine Construction": {
+				"items": [
+					"Mine Beam",
+					"Mine Elevator",
+					"Mine Pyre",
+					"Mine Support",
+					"Minehole",
+					"Stone Column"
+				]
+			},
+			"Roads & Logistics": {
+				"items": [
+					"Milestone",
+					"Ship Dock",
+					"Wagon Station",
+					"Wooden Roadsign"
+				]
+			},
+			"Walls & Fences": {
+				"items": [
+					"Brickwall",
+					"Dry Stone Fence",
+					"Palisade",
+					"Roundpole Fence"
+				]
+			},
+			"items": [
+				"Grave Cairn",
+				"Runed Dolmen"
+			]
+		},
+		"Containers": {
+			"Barrels & Casks": {
+				"items": [
+					"Barrel",
+					"Demijohn"
+				]
+			},
+			"Baskets": {
+				"items": [
+					"Birchbark Basket",
+					"Leather Basket",
+					"Straw Basket",
+					"Thatch Basket",
+					"Wicker Basket"
+				]
+			},
+			"Boxes & Crates": {
+				"items": [
+					"Crate",
+					"Linen Crate",
+					"Wooden Box"
+				]
+			},
+			"Chests": {
+				"items": [
+					"Bone Chest",
+					"Coffer",
+					"Large Chest",
+					"Wooden Chest"
+				]
+			},
+			"items": [
+				"Cupboard",
+				"Exquisite Chest",
+				"Metal Cabinet",
+				"Stone Casket",
+				"Strongbox"
+			]
+		},
+		"Farming & Animals": {
+			"items": [
+				"Food Trough",
+				"Hitching Post",
+				"Mound Bed",
+				"Trellis"
+			]
+		},
+		"Furniture & Decorations": {
+			"Beds": {
+				"items": [
+					"Sturdy Bed",
+					"Thatched Bed"
+				]
+			},
+			"Chairs & Seating": {
+				"Benches & Sofas": {
+					"items": [
+						"Cushioned Bench",
+						"Fine Sofa",
+						"Garden Bench",
+						"Long Bench",
+						"Stone Bench"
+					]
+				},
+				"Rocking Chairs": {
+					"items": [
+						"Rocking Chair",
+						"Rocking Horse"
+					]
+				},
+				"Stools": {
+					"items": [
+						"Cushioned Stool",
+						"Royal Stool"
+					]
+				},
+				"items": [
+					"Arched Chair",
+					"Cloth Armchair",
+					"Cloth Chair",
+					"Cloth Footstool",
+					"Conch Chair",
+					"Cottage Throne",
+					"Ram Chair",
+					"Royal Throne",
+					"Rustic Chair",
+					"Stone Throne",
+					"Thatched Chair"
+				]
+			},
+			"Decor & Display": {
+				"Signs & Flags": {
+					"items": [
+						"Display Sign",
+						"Easel",
+						"Face Cutout Standee",
+						"Flagpole",
+						"Foldup Sign",
+						"Notice Board",
+						"Runestone",
+						"Signboard",
+						"Standing Flag",
+						"Written Sign"
+					]
+				},
+				"items": [
+					"Bell Fountain",
+					"Carpet",
+					"Display Case",
+					"Hatrack",
+					"Mannequin",
+					"Skullpole",
+					"Snowman"
+				]
+			},
+			"Light & Fire": {
+				"items": [
+					"Brazier",
+					"Candelabrum",
+					"Hookah",
+					"Lantern Hanger",
+					"Lantern Post",
+					"Lantern Stand",
+					"Pumpkin Lantern",
+					"Snow Lantern",
+					"Torchpost"
+				]
+			},
+			"Tables": {
+				"items": [
+					"Cottage Table",
+					"Elegant Table",
+					"Rustic Table",
+					"Stone Table"
+				]
+			},
+			"items": [
+				"Ancestral Shrine",
+				"Archery Target",
+				"Dressing Table",
+				"Postbox",
+				"Skull Throne",
+				"Study Desk",
+				"Wardrobe"
+			]
+		},
+		"Production & Processing": {
+			"items": [
+				"Bee Skep",
+				"Cheese Rack",
+				"Compost Bin",
+				"Curding Tub",
+				"Dream Catcher",
+				"Drying Frame",
+				"Glass Pane Frame",
+				"Herbalist Table",
+				"Tanning Tub"
+			]
+		},
+		"Siege Equipment": {
+			"items": [
+				"Archery Tower",
+				"Battering Ram",
+				"Catapult",
+				"Wrecking Ball"
+			]
+		},
+		"Vehicles & Movables": {
+			"items": [
+				"Cart",
+				"Coracle",
+				"Dugout",
+				"Kicksled",
+				"Knarr",
+				"Knarr Sail",
+				"Metal Plow",
+				"Raft",
+				"Rowboat",
+				"Sleigh",
+				"Snekkja",
+				"Snekkja Sail",
+				"WaGon",
+				"Wheelbarrow",
+				"Wilderness Skis",
+				"Wooden Plow"
+			]
+		},
+		"Workstations & Utilities": {
+			"items": [
+				"Alchemist's Table",
+				"Anvil",
+				"Churn",
+				"Clay Cauldron",
+				"Coinpress",
+				"Extraction Press",
+				"Gemcutter's Wheel",
+				"Loom",
+				"Meatgrinder",
+				"Metal Cauldron",
+				"Potter's Wheel",
+				"Quern",
+				"Rope Walk",
+				"Spinning Wheel"
+			]
+		}
+	},
+	"Craft": {
+		"Alchemy": {
+			"Alchemical Tools": {
+				"items": [
+					"Burette",
+					"Fine Scales",
+					"Mortar & Pestle",
+					"Retort",
+					"Testtube Rack",
+					"Tripod Burner"
+				]
+			}
+		},
+		"Clothes & Equipment": {
+			"Armor & Helmets": {
+				"Helms & Helmets": {
+					"items": [
+						"Dragon Helm",
+						"Grand Troll Helm"
+					]
+				},
+				"Torso Armor": {
+					"items": [
+						"Plate Mail",
+						"Woodland Cuirass"
+					]
+				},
+				"items": [
+					"Armored Striders",
+					"Badger Hide Vest",
+					"Beaver Wrist Guards",
+					"Boar Tusk Helmet",
+					"Bone Greaves",
+					"Bronze Helm",
+					"Bronze Plate",
+					"Chainmail Shirt",
+					"Cutthroat Cuirass",
+					"Druid's Helm",
+					"Horse Nomad's Helm",
+					"Hussar's Wings",
+					"Leather Armor",
+					"Leather Pants",
+					"Mammoth Guard",
+					"Miner's Helm",
+					"Plate Boots",
+					"Plate Gauntlets",
+					"Plate Greaves",
+					"Plate Helmet",
+					"Raider's Cap",
+					"Thane's Helm",
+					"Vapntreyiu",
+					"Winged Helmet",
+					"Woodland Greaves"
+				]
+			},
+			"Boots & Shoes": {
+				"items": [
+					"Bunny Slippers",
+					"Clogs",
+					"Fur Boots",
+					"Leather Boots",
+					"Ranger's Boots",
+					"Rusalka's Water Moccasins",
+					"Snakeskin Boots",
+					"Walrus Boots",
+					"Wolverine Boots"
+				]
+			},
+			"Capes, Cloaks & Robes": {
+				"items": [
+					"Ashen Robes",
+					"Bat Wing",
+					"Bear Cape",
+					"Bear Coat",
+					"Cave Angler Cape",
+					"Druid's Cloak",
+					"Fur Cloak",
+					"Grass Cape",
+					"Heraldic Cape",
+					"Hermine Cape",
+					"Hide Cloak",
+					"Hirdsman's Cape",
+					"Kozhukh",
+					"Lawspeaker's Robes",
+					"Leather Coat",
+					"Lynx Cape",
+					"Merchant's Robe",
+					"Plain Tabard",
+					"Ranger's Cape",
+					"Reindeer Cape",
+					"Scarlet Gown",
+					"Straw Cape",
+					"Swan Feather Cape",
+					"Toga",
+					"Walrus Cape",
+					"Wolf Cape"
+				]
+			},
+			"Equipment Gilding": {
+				"Hide & Leather Gildings": {
+					"items": [
+						"Bear Fur Trimmings",
+						"Boarhide Lining",
+						"Ermine Trimming",
+						"Greased Joints",
+						"Hide Layer",
+						"Leather Patch",
+						"Reinforced Hem",
+						"Rough Guard Patch",
+						"Snakeskin Stripes",
+						"Troll Hide Ruffle"
+					]
+				},
+				"Metalworked Gildings": {
+					"items": [
+						"Copper Scales",
+						"Fancy Buckle",
+						"Fossil Lapel Pin",
+						"Hard Metal Rivets",
+						"Metal Buttons",
+						"Plumb-Bob",
+						"Precious Details",
+						"Rose Gold Clasps"
+					]
+				},
+				"Pockets": {
+					"items": [
+						"Badger's Pouch",
+						"Bushcraft Pocket",
+						"Cloth Pocket",
+						"Gold Cloth Pocket",
+						"Hardened Leather Pocket",
+						"Leather Pocket",
+						"Silk Pocket",
+						"Squirell's Pouch",
+						"Troll Pocket"
+					]
+				},
+				"Primitive Gildings": {
+					"items": [
+						"Adder Brooch",
+						"Bark Reinforcement",
+						"Bone Pins",
+						"Chitin Sequins",
+						"Forager's Brooch",
+						"Moose Antler Buttons",
+						"Reed Brooch",
+						"Root Woven Brooch",
+						"Taproot Lacing",
+						"Turtle Shell Buttons",
+						"Twig of Spruce",
+						"Whalebone Clasps",
+						"Woodsman's Token"
+					]
+				},
+				"Sewn Gildings": {
+					"items": [
+						"Cornbraid",
+						"Extra Stitches",
+						"Feather Stuffing",
+						"Felt Inlay",
+						"Hemp Fibre Finery",
+						"Mohair Monogram",
+						"Patterned Embroidery",
+						"Quilted Wadding",
+						"Silkspun Seam",
+						"Spun Gluethread",
+						"Wax-Impregnated Lining",
+						"Wool Cloth Collar",
+						"Wool Stuffing"
+					]
+				},
+				"items": [
+					"Chef's Pin",
+					"Fine Feather Brooch",
+					"Finebone Trinkets",
+					"Glass Beads",
+					"Polished Porphyry Beads",
+					"Shipwreck Buttons"
+				]
+			},
+			"Hats & Headwear": {
+				"Crowns": {
+					"items": [
+						"Adder Crown",
+						"Candle Crown",
+						"Grass Crown",
+						"Royal Crown",
+						"Woodland Crown"
+					]
+				},
+				"items": [
+					"Beaver Cap",
+					"Boreworm Mask",
+					"Chef's Hat",
+					"Chieftain's Hat",
+					"Chitin Helmet",
+					"Cylinder Hat",
+					"Feather Band",
+					"Felt Hat",
+					"Fisherman's Hat",
+					"Fox Hat",
+					"Goat Mask",
+					"Hirdsman's Helmet",
+					"Laddie's Cap",
+					"Lawspeaker's Hat",
+					"Leather Merchant's Hat",
+					"Mask of the Green Man",
+					"Pointed Cap",
+					"Pumpkin Hat",
+					"Rat Hat",
+					"Sprucecap",
+					"Straw Hat",
+					"Turtleshell Helmet",
+					"Woodsman's Ushanka"
+				]
+			},
+			"Hook, Line & Sinker": {
+				"Fishlines": {
+					"items": [
+						"Bushcraft Fishline",
+						"Farmer's Fishline",
+						"Fine Fishline",
+						"Macabre Fishline",
+						"Shepherd's Fishline",
+						"Shoreline Fishline",
+						"Tanner's Fishline",
+						"Woodsman's Fishline"
+					]
+				},
+				"Lures": {
+					"items": [
+						"Copper Comet",
+						"Copperbrush Snapper",
+						"Feather Fly",
+						"Gold Spoon-Lure",
+						"Pinecone Plug",
+						"Poppy Wobbler",
+						"Rock Lobster",
+						"Steelbrush Plunger",
+						"Tin Fly",
+						"Woodfish"
+					]
+				},
+				"items": [
+					"Bone Hook",
+					"Bushcraft Fishingpole",
+					"Chitin Hook",
+					"Chum Bait",
+					"Diver's Weight",
+					"Fishing Net",
+					"Lobster Pot",
+					"Metal Hook",
+					"Primitive Casting-Rod"
+				]
+			},
+			"Instruments": {
+				"items": [
+					"Bagpipe",
+					"Drum & Sticks",
+					"Fiddle & Bow",
+					"Flute",
+					"Harmonica",
+					"Lute",
+					"Wildgoat Lur"
+				]
+			},
+			"Packs & Sacks": {
+				"Purses": {
+					"items": [
+						"Leather Purse",
+						"Silk Purse"
+					]
+				},
+				"items": [
+					"Birchbark Backpack",
+					"Creel",
+					"Gift Box",
+					"Leather Backpack",
+					"Packrack",
+					"Saddlebags",
+					"Traveler's Sack",
+					"Wanderer's Bindle",
+					"Wicker Picker"
+				]
+			},
+			"Pants & Legwear": {
+				"items": [
+					"Grass Skirt",
+					"Hemp Pants",
+					"Linen Pants",
+					"Merchant's Pants",
+					"Molehide Pants",
+					"Nettle Pants",
+					"Ranger's Pants",
+					"Seal Hide Hoses",
+					"Wool Pants"
+				]
+			},
+			"Shirts & Tunics": {
+				"items": [
+					"Hemp Shirt",
+					"Hunter's Shirt",
+					"Linen Shirt",
+					"Mohair Shirt",
+					"Moose Hide Jacket",
+					"Nettle Shirt",
+					"Ranger's Shirt",
+					"Reindeer Parka",
+					"Whaler's Jacket",
+					"Woodsman's Tunic",
+					"Wool Shirt"
+				]
+			},
+			"Tools": {
+				"Axes": {
+					"items": [
+						"Butcher's Cleaver",
+						"Metal Axe",
+						"Pick Axe",
+						"Stone Axe",
+						"Tinker's Throwing Axe",
+						"Woodsman's Axe"
+					]
+				},
+				"Cooking Utensils": {
+					"items": [
+						"Cheese Tray",
+						"Frying Pan",
+						"Grid Iron",
+						"Heart Cookie Cutter",
+						"Man Cookie Cutter",
+						"Pickling Jar",
+						"Roasting Spit",
+						"Sap Tap",
+						"Woman Cookie Cutter"
+					]
+				},
+				"Lanterns": {
+					"items": [
+						"Rectangular Parchment Lantern"
+					]
+				},
+				"items": [
+					"Bone Saw",
+					"Branding Iron",
+					"Dowsing Rod",
+					"Glass Blowing Rod",
+					"Irrlantern",
+					"Lantern",
+					"Metal Saw",
+					"Metal Shovel",
+					"Scythe",
+					"Shears",
+					"Sledgehammer",
+					"Smithy's Hammer",
+					"Tinker's Shovel",
+					"Torch",
+					"Wooden Shovel"
+				]
+			},
+			"Vessels & Liquids": {
+				"items": [
+					"Bucket",
+					"Glass Jug",
+					"Snuffbox",
+					"Waterflask",
+					"Waterskin"
+				]
+			},
+			"Weapons": {
+				"items": [
+					"Battleaxe of the Twelfth Bay",
+					"Boar Spear",
+					"Bone Arrow",
+					"Bronze Sword",
+					"Ceramic Knife",
+					"Cutblade",
+					"Cutthroat Knuckles",
+					"Flint Knife",
+					"Fyrdsman's Sword",
+					"Hirdsman's Sword",
+					"Hunter's Bow",
+					"Hunter's Quiver",
+					"Lynx Claw Gloves",
+					"Metal Arrow",
+					"Obsidian Dagger",
+					"Ranger's Bow",
+					"Sling",
+					"Stone Arrow",
+					"Wooden Roundshield"
+				]
+			},
+			"Xtras & Accessories": {
+				"Jewelry": {
+					"items": [
+						"(<i>Meteoring<i>)",
+						"Beast Ring",
+						"Cachalot Charm",
+						"Cave Coral Ring",
+						"Darkwood Ring",
+						"Druid's Ring",
+						"Family Heirloom",
+						"Forge Ring",
+						"Lead Talisman",
+						"Merchant's Ring",
+						"Occult Ring",
+						"Pearl Necklace",
+						"Rabbit's Foot Necklace)",
+						"Rainbow Shell Amulet",
+						"Ring of Brodgar",
+						"Silver for the Ferryman",
+						"Thane's Ring",
+						"Whitemetal Ring"
+					]
+				},
+				"items": [
+					"Bandit's Mask",
+					"Battle Standard",
+					"Bear Tooth Talisman",
+					"Bull Pipe",
+					"Clay Pipe",
+					"Clothier's Thimble",
+					"Exquisite Belt",
+					"Grand Belt",
+					"Hunter's Belt",
+					"Monocle",
+					"Poor Man's Belt",
+					"Poor Man's Gloves",
+					"Reedweave Belt",
+					"Silk Gloves",
+					"Snakeskin Belt",
+					"Spectacles",
+					"Troll Belt"
+				]
+			}
+		},
+		"Curiosities": {
+			"Decoratives": {
+				"items": [
+					"Blacksmith's Bauble",
+					"Bouquet of Flowers",
+					"Corndolly Lantern",
+					"Feather Sunfeather",
+					"Feather Trinket",
+					"Gilded Nautilus",
+					"Great Wax Seal",
+					"Hand Impression",
+					"Oak Spire",
+					"Onion Braid",
+					"Ship-in-a-Bottle",
+					"Silken Ribbon",
+					"Silver Rose",
+					"Stained Glass Heart",
+					"Still Life"
+				]
+			},
+			"Dolls & Figurines": {
+				"items": [
+					"Bronze Steed",
+					"Clay Cuckoo",
+					"Cone Cow",
+					"Glue troll",
+					"Golden Cat",
+					"Plush Bat",
+					"Primitive Doll",
+					"Straw Doll",
+					"Stuffed Bear",
+					"Tar Doll",
+					"Tin Warrior"
+				]
+			},
+			"Luxuries": {
+				"items": [
+					"Bar of Soap",
+					"Cigar",
+					"Cigar Box",
+					"Easter Egg"
+				]
+			},
+			"Naturalia": {
+				"items": [
+					"Ant Farm",
+					"Batwing Necklace",
+					"Bug Collection",
+					"Cave Battery",
+					"Deep Sea Atavism",
+					"Fossil Collection",
+					"Magnifying Glass",
+					"Miniature Volcano",
+					"Nine-Tails",
+					"Petraglyph",
+					"Potent Rod",
+					"Prism",
+					"Quicksilver Globe",
+					"Scarab Talisman",
+					"Tiny Abacus",
+					"Whalebone Scrimshaw"
+				]
+			},
+			"Rite & Ritual": {
+				"items": [
+					"Crude Idol",
+					"Divination in Lead",
+					"Divination in Tin",
+					"Enthroned Toad",
+					"Mirkwood Offering",
+					"Ouroboros",
+					"Rattle-Tattle-Talisman",
+					"Seer's Bones",
+					"Seer's Bowl",
+					"Seer's Tealeaves",
+					"V\u00f6lva's Wand"
+				]
+			},
+			"Toys": {
+				"items": [
+					"Barkboat",
+					"Leather Ball",
+					"Porcelain Doll",
+					"Reed Ship",
+					"Sand Castle",
+					"Shiny Marbles",
+					"Slinky",
+					"Snow Globe",
+					"Snowball",
+					"Tafl Board",
+					"Toy Chariot"
+				]
+			},
+			"items": [
+				"Cone Cow",
+				"Cornucopia",
+				"Dice",
+				"Feather Duster",
+				"Golden Teeth",
+				"Horrible Knot",
+				"Ivory Figurine",
+				"Yule Wreath"
+			]
+		},
+		"Food": {
+			"Baked Goods": {
+				"Cakes": {
+					"items": [
+						"Birthday Cake",
+						"Carrot Cake",
+						"Cheesecake",
+						"Egg Cake",
+						"Honeybun",
+						"Jelly Cake",
+						"Lardy Cake",
+						"Marrow Cake",
+						"Plum Pudding",
+						"Raisin Butter-Cake",
+						"Strawberry Cake"
+					]
+				},
+				"Pies": {
+					"items": [
+						"Apple Pie",
+						"Blueberry Pie",
+						"Fishpie",
+						"Fruit Pie",
+						"Greenleaf Pie",
+						"GrubPie",
+						"Magpie",
+						"Meatpie",
+						"Mushroom Pie",
+						"Pea Pie",
+						"Poultry Pot Pie",
+						"Pumpkin Pie",
+						"Shepherd's Pie"
+					]
+				},
+				"items": [
+					"Bark Bread",
+					"Bread",
+					"Butter Scones",
+					"Chantrelle & Onion Pirozhki",
+					"Dream Cookies",
+					"Gingerbread Dough",
+					"Lingon Loaf",
+					"Linseed Loaf",
+					"Olive Bread",
+					"Onion Bread",
+					"Pumpkin Bread",
+					"Ring of Brodgar",
+					"Seedcrisp Flatbread"
+				]
+			},
+			"Fowl & Poultry": {
+				"items": [
+					"Beeted Bird Breast",
+					"Chicken Salad",
+					"Creamy Cock",
+					"Deep Fried Bird",
+					"Egg & Bacon",
+					"Leeky Fowl",
+					"Omelette",
+					"Packed Pouch",
+					"Stuffed Bird",
+					"Stuffed Puff",
+					"Two-Bird Skewer"
+				]
+			},
+			"Garden Greens": {
+				"items": [
+					"Butter Porridge",
+					"Butter-steamed Cavebulb",
+					"Buttered Leeks",
+					"Cucumber Salsa",
+					"Curd'n'Chives",
+					"Dressed Lettuce",
+					"Fat-Braised Veg",
+					"Glazed Honeyons",
+					"Honey Gruel",
+					"Mushroom Mash",
+					"Mushrooms in Jelly",
+					"Onion Rings",
+					"Onion Salad",
+					"Pumpkin Stew",
+					"Red-Shred Salad",
+					"Spicy salad",
+					"Spring Stew",
+					"Stinging Salad",
+					"Sweet Beets",
+					"Tuber Mash",
+					"Turnip Fries"
+				]
+			},
+			"Meat Dishes": {
+				"items": [
+					"Autumn Steak",
+					"Black Ribeye Steak",
+					"Blubber Feast",
+					"Chewy Chevon",
+					"Crackling Cutlets",
+					"Encumbered Roast",
+					"Haggis",
+					"Honey'd Bear",
+					"Hot Wings",
+					"Jotun's Morsel",
+					"Leg of a Boar",
+					"Liver & Onions",
+					"Marrow Roast",
+					"Meat-in-Jelly",
+					"Molehill",
+					"Odds & Ends",
+					"Onion Skewer",
+					"Poached Wolverine",
+					"Raw Kebab Roll",
+					"Salt Roulade",
+					"Seal Burger",
+					"Steak & Tubers"
+				]
+			},
+			"Pancakes": {
+				"items": [
+					"Cr\u00eape Citrouille",
+					"Cr\u00eape Noisette",
+					"Pancake",
+					"Pommace Perdue",
+					"Sacrebleu"
+				]
+			},
+			"Sausages": {
+				"items": [
+					"Badger Botillo",
+					"Bear Salami",
+					"Beaver Dog",
+					"Big Bear Banger",
+					"Boar Baloney",
+					"Boar Boudin",
+					"Bulldog",
+					"Butcher's Surprise",
+					"Cavedog",
+					"Chicken Chorizo",
+					"Cow Chorizo",
+					"Delicious Deer Dog",
+					"Elk Dog",
+					"Fox Fuet",
+					"Fox Wurst",
+					"Glazed Grazer Dog",
+					"Hedgedog",
+					"King of the Woods",
+					"Lamb & Lynx",
+					"Lamb Sausages",
+					"Lynxalami",
+					"Moodog",
+					"Piglet Wursts",
+					"Running Rabbit",
+					"Swan Neck",
+					"Tame Game Liverwurst",
+					"Walrus & Carpenter",
+					"Wolfdog",
+					"Wonderful Wilderness Wurst"
+				]
+			},
+			"Seafood": {
+				"": {
+					"items": [
+						"Wellplaiced Pie"
+					]
+				},
+				"items": [
+					"Birchbark Bream",
+					"Boiled River Pearl Mussel",
+					"Broiled Burbot",
+					"Butter-Chived Trout",
+					"Caviar Canap\u00e9",
+					"Clambake",
+					"Crab Cakes",
+					"Fish in Tears",
+					"Fishballs",
+					"Fishsticks",
+					"Iced Caviar",
+					"Lemon Fish",
+					"Moules Frites",
+					"Pan-Seared Fish",
+					"Perched Perch",
+					"Ring of Brodgar (Seafood)",
+					"Roast Roach Wrap",
+					"Roeboat",
+					"Shrimp Skewer",
+					"Zesty Brill"
+				]
+			},
+			"Sweets & Deserts": {
+				"items": [
+					"Candy Apple",
+					"Fruit Jelly",
+					"Fruit Salad",
+					"Fruit Sorbet",
+					"Hop Jellies",
+					"Strawberries in Cream"
+				]
+			},
+			"Wildgrub": {
+				"Pitbaked Goods": {
+					"items": [
+						"Fishwrap",
+						"Fruitroast",
+						"Laurel-Crowned Roast",
+						"Mushroom-Burst Glutton",
+						"Nutjerky"
+					]
+				},
+				"items": [
+					"Boiled Odds",
+					"Bush Rolls",
+					"Cattail Stew",
+					"Cave Skewer",
+					"Centibab",
+					"Cone Gruel",
+					"Escargots d'Amour",
+					"Grilled Frog Legs",
+					"Grub-Grub",
+					"Lizard on Scales",
+					"Mushroom Spit",
+					"Onioned Escargot",
+					"Rabbit food",
+					"Rat on a Stick",
+					"Roasthopper"
+				]
+			},
+			"items": [
+				"Bone Marrow",
+				"Brew tea",
+				"Roast Meat"
+			]
+		},
+		"Lock & Key": {
+			"items": [
+				"Keyring",
+				"Metal Lock",
+				"Steel Lock",
+				"Wooden Lock"
+			]
+		},
+		"Medicine & First Aid": {
+			"items": [
+				"Ant Paste",
+				"Boar Tusk Snuff",
+				"Camomile compress",
+				"Cold Compress",
+				"Cold Cut",
+				"Gauze",
+				"Hartshorn Salve",
+				"Honey Wayband",
+				"Kelp Cream",
+				"Mud Ointment",
+				"SNake Juice",
+				"Stinging Poultice",
+				"Stitch Patch",
+				"Tansy Exctract",
+				"Toad Butter",
+				"Willow Weep",
+				"root fill"
+			]
+		},
+		"Odds & Ends": {
+			"items": [
+				"Box of Matches",
+				"Flint & Steel",
+				"Painting"
+			]
+		},
+		"Pots & Pottery": {
+			"items": [
+				"Clay Jar",
+				"Garden Pot",
+				"Pot",
+				"Treeplanter's Pot",
+				"Urn"
+			]
+		},
+		"Processing & Materials": {
+			"Cooking & Ingredients": {
+				"Batter & Stuffing": {
+					"items": [
+						"Meat Stuffing",
+						"Mix Batter",
+						"Mushroom Stuffing",
+						"Roe Stuffing",
+						"Vegetable Stuffing"
+					]
+				},
+				"items": [
+					"Boil Pepper Drupes",
+					"Brew Mead Must",
+					"Brew Wort",
+					"Churn Butter",
+					"Fat cuts",
+					"Gelatin",
+					"Grind Flour",
+					"Grind Pepper",
+					"Grind Salt",
+					"Jelly Casing",
+					"Pickling Brine",
+					"Render Fat",
+					"Rennet",
+					"Stitched Casing"
+				]
+			},
+			"Pigments & Imagery": {
+				"Pigments": {
+					"items": [
+						"Beige Pigment",
+						"Black Pigment",
+						"Blue Pigment",
+						"Brown Pigment",
+						"Gray Pigment",
+						"Green Pigment",
+						"Lime Pigment",
+						"Orange Pigment",
+						"Pink Pigment",
+						"Purple Pigment",
+						"Red Pigment",
+						"Teal Pigment",
+						"Turquoise Pigment",
+						"White Pigment",
+						"Yello Pigment"
+					]
+				},
+				"items": [
+					"Flag",
+					"Paint Sketch"
+				]
+			},
+			"Sewing & Fabric": {
+				"items": [
+					"Bark Cordage",
+					"Ermine Cloth",
+					"Felt",
+					"Golden Cloth",
+					"Golden Thread",
+					"Grass Twine",
+					"Hardened Leather",
+					"Hemp Cloth",
+					"Hide Straps",
+					"Leather Fabric",
+					"Linen Cloth",
+					"Primitive Cloth",
+					"Rat Cloth",
+					"Reed Twine",
+					"Rope",
+					"Silk Cloth",
+					"Silk Thread",
+					"Straw Twine",
+					"Wool Cloth",
+					"Yarn"
+				]
+			},
+			"Smithing & Metals": {
+				"items": [
+					"Bar of Bronze",
+					"Coins",
+					"Smelt Metal Bar",
+					"Smelt Metal Nuggets",
+					"Wrought Iron"
+				]
+			},
+			"Wax & Wick": {
+				"items": [
+					"Beeswax",
+					"Candleberry Wax",
+					"Rough Polish",
+					"Tallow Candle",
+					"Wax Candle"
+				]
+			},
+			"items": [
+				"Bone Clay",
+				"Bone Glue",
+				"Chitin Powder",
+				"Coade Clay",
+				"Cut Gemstone",
+				"Exquisite Rot",
+				"Goldbeater's Skin",
+				"Grind Pipestuff",
+				"Molten Glass",
+				"Parchment",
+				"Potter's Clay",
+				"Rustroot Extract",
+				"Smelt Raw Glass",
+				"Soap Clay",
+				"Tanning Fluid",
+				"Tarsticks"
+			]
+		},
+		"Symbel & Tableware": {
+			"Coasters, Hotpads & Trivets": {
+				"items": [
+					"Cast Iron Trivet",
+					"Coiled Rope Hotpad",
+					"Stitched Leather Coaster"
+				]
+			},
+			"Cups, Mugs, Glasses & Goblets": {
+				"items": [
+					"Birchbark Kuksa",
+					"Drinking Horn",
+					"Leaf Cup",
+					"Metal Mug",
+					"Mug",
+					"Skull Cup",
+					"Strange Crystal Glass",
+					"Tankard",
+					"Whitemetal Cup",
+					"Wine Glass",
+					"Wooden Cup"
+				]
+			},
+			"Forks, Knives & Cutlery": {
+				"items": [
+					"Antler Steak Cutlery",
+					"Cake Knife",
+					"Gold Cutlery",
+					"Hard Metal Cutlery",
+					"Silver Cutlery",
+					"Soft Metal Cutlery",
+					"Wooden Cutlery"
+				]
+			},
+			"Plates": {
+				"items": [
+					"Earthenware Platter",
+					"Gold Plate",
+					"Metal Plate",
+					"Porcelain Plate",
+					"Turtle Shell Bowl",
+					"Wooden Plate"
+				]
+			},
+			"Pots & Kettles": {
+				"items": [
+					"Copper Kettle",
+					"Metal Saucier"
+				]
+			},
+			"Table Linens & Cloth": {
+				"items": [
+					"Hemp Tablecloth",
+					"Leather Tablecloth",
+					"Linen Napkin",
+					"Linen Tablecloth",
+					"Silk Napkin",
+					"Silk Tablecloth",
+					"Wool Tablecloth"
+				]
+			},
+			"items": [
+				"Feather Garland",
+				"Golden Table Bell",
+				"Hop Garland",
+				"Pepper Shaker",
+				"Peppermill",
+				"Poppy Garland",
+				"Stoneware Vase",
+				"Teapot",
+				"Wicker Breadbasket",
+				"Wine Bottle"
+			]
+		}
+	},
+	"Emotes": {
+		"items": [
+			"Bow & Present",
+			"Clapping",
+			"Contemplate",
+			"Facepalm",
+			"Laughing out Loud",
+			"Lean Against",
+			"Lean in and Kiss",
+			"Rage!",
+			"Rowdy dance",
+			"Rub Hands",
+			"Shrug",
+			"Sit Down",
+			"Squat",
+			"Steppe Dance",
+			"The Dab",
+			"Up yours",
+			"Wave",
+			"Whistle"
+		]
+	},
+	"Government": {
+		"Realm Management": {
+			"items": [
+				"Border Cairn",
+				"Grotesque Idol",
+				"Menhir",
+				"Seamark"
+			]
+		},
+		"Village Management": {
+			"items": [
+				"Charter Stone",
+				"Field Cairn",
+				"Statue of the Chieftain",
+				"Sublime Portico",
+				"Village Banner",
+				"Village Buoy"
+			]
+		}
+	},
+	"Powers of the Afterlive": {
+		"items": [
+			"Set Attributes"
+		]
+	},
+	"Rite & Magic": {
+		"Hearth Magic": {
+			"items": [
+				"Commune With Nature",
+				"Contemplation & Meditation",
+				"Dig Deeper",
+				"Fisher's Request for a Catch",
+				"Gilding Song",
+				"Green Thumb",
+				"Horse Whisper",
+				"Kindle",
+				"Mine Song",
+				"Polish the Silver",
+				"Quell the Beast",
+				"Raw Hide!",
+				"Star Gaze",
+				"Venegeful Incantation"
+			]
+		},
+		"Revenge & Curses": {
+			"items": [
+				"Nidbane Fetter",
+				"Scrying Juice"
+			]
+		},
+		"items": [
+			"Crop Circle"
+		]
+	},
+	"items": [
+		"Shoot!"
+	]
+}
