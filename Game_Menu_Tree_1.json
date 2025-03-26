@@ -1,0 +1,144 @@
+{
+	"Adventure": {
+		"Haven & Hearth": {},
+		"Landscaping": {},
+		"Smoke & Fire": {},
+		"Toggles": {}
+	},
+	"Build": {
+		"Buildings & Construction": {
+			"Economy & Extensions": {},
+			"Furnaces & Fireplaces": {},
+			"Houses & Buildings": {},
+			"Mine Construction": {},
+			"Roads & Logistics": {},
+			"Walls & Fences": {}
+		},
+		"Containers": {
+			"Barrels & Casks": {},
+			"Baskets": {},
+			"Boxes & Crates": {},
+			"Chests": {}
+		},
+		"Farming & Animals": {},
+		"Furniture & Decorations": {
+			"Beds": {},
+			"Chairs & Seating": {
+				"Benches & Sofas": {},
+				"Rocking Chairs": {},
+				"Stools": {}
+			},
+			"Decor & Display": {
+				"Signs & Flags": {}
+			},
+			"Light & Fire": {},
+			"Tables": {}
+		},
+		"Production & Processing": {},
+		"Siege Equipment": {},
+		"Vehicles & Movables": {},
+		"Workstations & Utilities": {}
+	},
+	"Craft": {
+		"Alchemy": {
+			"Alchemical Tools": {}
+		},
+		"Clothes & Equipment": {
+			"Armor & Helmets": {
+				"Helms & Helmets": {},
+				"Torso Armor": {}
+			},
+			"Boots & Shoes": {},
+			"Capes, Cloaks & Robes": {},
+			"Equipment Gilding": {
+				"Hide & Leather Gildings": {},
+				"Metalworked Gildings": {},
+				"Pockets": {},
+				"Primitive Gildings": {},
+				"Sewn Gildings": {}
+			},
+			"Hats & Headwear": {
+				"Crowns": {}
+			},
+			"Hook, Line & Sinker": {
+				"Fishlines": {},
+				"Lures": {}
+			},
+			"Instruments": {},
+			"Packs & Sacks": {
+				"Purses": {}
+			},
+			"Pants & Legwear": {},
+			"Shirts & Tunics": {},
+			"Tools": {
+				"Axes": {},
+				"Cooking Utensils": {},
+				"Lanterns": {}
+			},
+			"Vessels & Liquids": {},
+			"Weapons": {},
+			"Xtras & Accessories": {
+				"Jewelry": {}
+			}
+		},
+		"Curiosities": {
+			"Decoratives": {},
+			"Dolls & Figurines": {},
+			"Luxuries": {},
+			"Naturalia": {},
+			"Rite & Ritual": {},
+			"Toys": {}
+		},
+		"Food": {
+			"Baked Goods": {
+				"Cakes": {},
+				"Pies": {}
+			},
+			"Fowl & Poultry": {},
+			"Garden Greens": {},
+			"Meat Dishes": {},
+			"Pancakes": {},
+			"Sausages": {},
+			"Seafood": {
+				"": {}
+			},
+			"Sweets & Deserts": {},
+			"Wildgrub": {
+				"Pitbaked Goods": {}
+			}
+		},
+		"Lock & Key": {},
+		"Medicine & First Aid": {},
+		"Odds & Ends": {},
+		"Pots & Pottery": {},
+		"Processing & Materials": {
+			"Cooking & Ingredients": {
+				"Batter & Stuffing": {}
+			},
+			"Pigments & Imagery": {
+				"Pigments": {}
+			},
+			"Sewing & Fabric": {},
+			"Smithing & Metals": {},
+			"Wax & Wick": {}
+		},
+		"Symbel & Tableware": {
+			"Coasters, Hotpads & Trivets": {},
+			"Cups, Mugs, Glasses & Goblets": {},
+			"Forks, Knives & Cutlery": {},
+			"Plates": {},
+			"Pots & Kettles": {},
+			"Table Linens & Cloth": {}
+		}
+	},
+	"Emotes": {},
+	"Government": {
+		"Realm Management": {},
+		"Village Management": {}
+	},
+	"Powers of the Afterlive": {},
+	"Rite & Magic": {
+		"Hearth Magic": {},
+		"Revenge & Curses": {}
+	}
+}
