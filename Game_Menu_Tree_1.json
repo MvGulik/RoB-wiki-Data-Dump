@@ -136,9 +136,11 @@
 		"Realm Management": {},
 		"Village Management": {}
 	},
+	"Help": {},
 	"Powers of the Afterlive": {},
 	"Rite & Magic": {
 		"Hearth Magic": {},
 		"Revenge & Curses": {}
-	}
+	},
+	"Toggles": {}
 }
