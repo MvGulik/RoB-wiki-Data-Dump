@@ -46,10 +46,12 @@
 		"items": [
 			"Destroy",
 			"Dig",
+			"Drink",
 			"Fish",
 			"Inspect",
 			"Lift",
 			"Mine",
+			"Repair",
 			"dig"
 		]
 	},
@@ -1389,6 +1391,11 @@
 			]
 		}
 	},
+	"Help": {
+		"items": [
+			"00. General Interactions"
+		]
+	},
 	"Powers of the Afterlive": {
 		"items": [
 			"Set Attributes"
@@ -1423,7 +1430,19 @@
 			"Crop Circle"
 		]
 	},
+	"Toggles": {
+		"items": [
+			"Display Quality in Items",
+			"Display Siege Engine Radii",
+			"Show Siege Engines",
+			"Toggle Automatic Item Stacking",
+			"Toggle Tracking",
+			"Toggle Visiting"
+		]
+	},
 	"items": [
-		"Shoot!"
+		"Attack!",
+		"Push!",
+		"Shoot"
 	]
 }
