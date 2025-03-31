@@ -99,9 +99,7 @@
 			"Meat Dishes": {},
 			"Pancakes": {},
 			"Sausages": {},
-			"Seafood": {
-				"": {}
-			},
+			"Seafood": {},
 			"Sweets & Deserts": {},
 			"Wildgrub": {
 				"Pitbaked Goods": {}
@@ -141,6 +139,5 @@
 	"Rite & Magic": {
 		"Hearth Magic": {},
 		"Revenge & Curses": {}
-	},
-	"Toggles": {}
+	}
 }

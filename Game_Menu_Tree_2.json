@@ -38,9 +38,15 @@
 		"Toggles": {
 			"items": [
 				"Display Mine Support Radius",
+				"Display Quality in Items",
+				"Display Siege Engine Radii",
+				"Show Siege Engines",
+				"Toggle Automatic Item Stacking",
 				"Toggle Criminal Acts",
 				"Toggle Party Permissions",
-				"Toggle Swimming"
+				"Toggle Swimming",
+				"Toggle Tracking",
+				"Toggle Visiting"
 			]
 		},
 		"items": [
@@ -1043,11 +1049,6 @@
 				]
 			},
 			"Seafood": {
-				"": {
-					"items": [
-						"Wellplaiced Pie"
-					]
-				},
 				"items": [
 					"Birchbark Bream",
 					"Boiled River Pearl Mussel",
@@ -1068,6 +1069,7 @@
 					"Roast Roach Wrap",
 					"Roeboat",
 					"Shrimp Skewer",
+					"Wellplaiced Pie",
 					"Zesty Brill"
 				]
 			},
@@ -1428,16 +1430,6 @@
 		},
 		"items": [
 			"Crop Circle"
-		]
-	},
-	"Toggles": {
-		"items": [
-			"Display Quality in Items",
-			"Display Siege Engine Radii",
-			"Show Siege Engines",
-			"Toggle Automatic Item Stacking",
-			"Toggle Tracking",
-			"Toggle Visiting"
 		]
 	},
 	"items": [
